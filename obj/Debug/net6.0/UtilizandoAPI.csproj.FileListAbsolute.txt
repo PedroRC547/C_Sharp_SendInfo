@@ -1,0 +1,17 @@
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\bin\Debug\net6.0\UtilizandoAPI.exe
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\bin\Debug\net6.0\UtilizandoAPI.deps.json
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\bin\Debug\net6.0\UtilizandoAPI.runtimeconfig.json
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\bin\Debug\net6.0\UtilizandoAPI.dll
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\bin\Debug\net6.0\UtilizandoAPI.pdb
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.csproj.AssemblyReference.cache
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.AssemblyInfoInputs.cache
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.AssemblyInfo.cs
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.csproj.CoreCompileInputs.cache
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.dll
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\refint\UtilizandoAPI.dll
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.pdb
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.genruntimeconfig.cache
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\ref\UtilizandoAPI.dll
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\c_sharp\SendInfoPost\UtilizandoAPI\UtilizandoAPI\obj\Debug\net6.0\UtilizandoAPI.csproj.CopyComplete
